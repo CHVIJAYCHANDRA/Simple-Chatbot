@@ -14,7 +14,7 @@ Getting Started
 To run the chatbot locally:
 1.Ensure you have Python installed on your machine.
 2.Clone this repository:
-git clone https://github.com/your-username/simple-chatbot.git
+git clone [https://github.com/your-username/simple-chatbot.git](https://chvijaychandra.github.io/Simple-Chatbot/)
 3.Navigate to the project directory and install any dependencies:
 cd simple-chatbot
 4.Run the chatbot script:
