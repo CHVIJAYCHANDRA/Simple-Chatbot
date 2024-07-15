@@ -22,6 +22,3 @@ python chatbot.py
 Usage
 Type your messages when prompted and press Enter to interact with the chatbot.
 The chatbot will respond based on predefined rules and random selections for a more engaging conversation experience.
-
-License
-MIT
